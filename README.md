@@ -1,6 +1,6 @@
 # API de Gerenciamento de Produto
 
-Serviço RESTful criado com **Spring Boot** para gerenciar os dados de clientes. O projeto exercita a construção de uma estrutura em camadas (Model, Repository, Service, Controller) e o mapeamento JPA com múltiplos campos de texto.
+Serviço RESTful criado com **Spring Boot** para gerenciar os dados de Produtos. O projeto exercita a construção de uma estrutura em camadas (Model, Repository, Service, Controller) e o mapeamento JPA com múltiplos campos de texto.
 
 ## 🚀 Tecnologias Utilizadas
 * Java
